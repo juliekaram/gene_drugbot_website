@@ -5,12 +5,9 @@ permalink: /privacy policy/
 ---
 
 ### 1. Introduction
-Thank you for visiting enter website.com. Please read our Terms of Service and this Privacy Policy carefully as you must agree to both documents in order to have permission to use our Service.
-
-### 2. ...
-
 GeneBot was developed by The Ma'ayan Lab from the Ichan School of Medicine at Mount Sinai for Slack.
 
+Thank you for visiting enter website.com. Please read our Terms of Service and this Privacy Policy carefully as you must agree to both documents in order to have permission to use our Service.
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
